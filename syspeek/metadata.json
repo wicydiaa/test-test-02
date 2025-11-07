@@ -161,7 +161,8 @@
     "Name[zh_CN]": "系统快览",
     "Name[zh_TW]": "系統快覽",
     "Version": "1.0.0",
-    "Website": "https://github.com/PRASSamin/SysPeek"
+    "Website": "https://github.com/PRASSamin/SysPeek",
+    "X-Plasma-ConfigPlugins": ["contents/config/main.xml"]
   },
   "X-Plasma-API-Minimum-Version": "6.0",
   "X-Plasma-Provides": [
